@@ -42,26 +42,26 @@ explain how email works.
 
 ## How the Event will Run:
 
-1. Introduce ourselves/activity - 5 minutes
+1. Introduce ourselves/activity - 5 minutes  
 
-2. Into Images - 10 minutes
-Yap
-mess with picture time (different types of tags) in files on computer
+2. Into Images - 10 minutes  
+Yap  
+mess with picture time (different types of tags) in files on computer  
 
-3. Intro Programming - 15 minutes
-Yap
-print stuffs,
-variables,
-functions + arguments
+3. Intro Programming - 15 minutes  
+Yap  
+print stuffs,  
+variables,  
+functions + arguments  
 
-4. Recipes of meme - 10 minutes 
-discussion (ask question): image and text
-what can we change about image/text - pseudocode
+4. Recipes of meme - 10 minutes  
+discussion (ask question): image and text  
+what can we change about image/text - pseudocode  
 
-5. Making meme - 35 minutes
-yap a bit
-notebooks, have students follow along
-volunteers help out
+5. Making meme - 35 minutes  
+yap a bit  
+notebooks, have students follow along  
+volunteers help out  
 
-6. meme presentations, Q/A, discussions, relaxation time - 15 minutes 
-leftover time 
+6. meme presentations, Q/A, discussions, relaxation time - 15 minutes  
+leftover time  
