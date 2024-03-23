@@ -33,31 +33,31 @@ Big Jay and Baby Jay lore
 
 ## How the Event will Run:
 
-1. Introduce ourselves/activity - 5 minutes  
+### 1. Introduce ourselves/activity - 5 minutes  
 
-2. Into Images - 10 minutes  
+### 2. Into Images - 10 minutes  
 
 * yap  
 * mess with picture time (different types of tags) in files on computer  
 
-3. Intro Programming - 15 minutes  
+### 3. Intro Programming - 15 minutes  
 
 * yap  
 * print stuffs 
 * variables  
 * functions + arguments  
 
-4. Recipes of meme - 10 minutes  
+### 4. Recipes of meme - 10 minutes  
 
 * discussion (ask question): image and text  
 * what can we change about image/text - pseudocode  
 
-5. Making meme - 35 minutes  
+### 5. Making meme - 35 minutes  
 
 * yap a bit  
 * notebooks, have students follow along  
 * volunteers help out  
 
-6. meme presentations, Q/A, discussions, relaxation time - 15 minutes  
+### 6. Meme presentations, Q/A, discussions, relaxation time - 15 minutes  
 
 * leftover time  
