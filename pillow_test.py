@@ -4,8 +4,8 @@ from PIL import Image, ImageOps, ImageFilter, ImageEnhance
 from PIL import PSDraw
 
 # saves an image in the directory in a variable
-im = Image.open("Images/Grus-Plan.jpg")
-im2 = Image.open("Images/Monkey-Puppet.jpg")
+im = Image.open("images/Grus-Plan.jpg")
+im2 = Image.open("images/Monkey-Puppet.jpg")
 print(im.format, im.size, im.mode)
 
 # saves a cropped image by the dimensions (left, upper, right, bottom)
@@ -48,7 +48,7 @@ im.show()'''
 # resizing relative to a give size
 '''
 size = (100, 150)
-with Image.open("Images/Monkey-Puppet.jpg") as im:
+with Image.open("images/Monkey-Puppet.jpg") as im:
     ImageOps.contain(im, size).save("puppet_contain.png")
     ImageOps.cover(im, size).save("puppet_cover.png")
     ImageOps.fit(im, size).save("puppet_fit.png")
@@ -62,7 +62,7 @@ with Image.open("Images/Monkey-Puppet.jpg") as im:
 
 # Color transformations, changing to L or RGB modes
 '''
-with Image.open("Images/Monkey-Puppet.jpg") as im:
+with Image.open("images/Monkey-Puppet.jpg") as im:
     im = im.convert("L")
 '''
 
